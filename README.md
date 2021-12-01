@@ -1,4 +1,4 @@
-## Kiran Vaidhya Venkadesh | PhD candidate @ [Diagnostic Image Analysis Group](https://www.diagnijmegen.nl/) of Radboudumc
+## Kiran Vaidhya Venkadesh 
 
 You can use the [editor on GitHub](https://github.com/kiranvaidhya/kiranvaidhya.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
